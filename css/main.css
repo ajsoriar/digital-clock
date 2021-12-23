@@ -42,10 +42,10 @@ body {
 }
 
 #clockDisplay{
-    font-size: 11vw;
+    font-size: 200px;
     display: inline-block;
     margin: auto;
-    width: 70vw;
+    width: 70%;
     position: absolute;
     left: 0;
     border: 2px solid black;
@@ -54,10 +54,11 @@ body {
     padding: 0;
     height: auto;
     text-align: center;
-    top: 38vh;
-    left: 15vw;
+    top: 38%;
+    left: 15%;
     _visibility: hidden;
     color: currentColor;
+    height: 50%;
 }
 
 #ajsrConsole-container{
